@@ -1,7 +1,2 @@
-﻿  extra-task-1.cpp
-C:\Users\Srrgei\Desktop\cs211-extra-task-1\extra-task-1.cpp(2,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
-  main.cpp
-  Создание кода...
-C:\Users\Srrgei\Desktop\cs211-extra-task-1\extra-task-1.cpp(60): error C4716: to_24_hour_clock: должна возвращать значение
-C:\Users\Srrgei\Desktop\cs211-extra-task-1\extra-task-1.cpp(109): error C4716: time_to_utc: должна возвращать значение
-C:\Users\Srrgei\Desktop\cs211-extra-task-1\extra-task-1.cpp(140): error C4716: time_from_utc: должна возвращать значение
+﻿  main.cpp
+  bonus1.vcxproj -> C:\Users\Srrgei\Desktop\cs211-extra-task-1\x64\Debug\bonus1.exe
